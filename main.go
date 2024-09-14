@@ -1,9 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	homework()
-}
-
-func homework() {
-
+	fmt.Println("Hello, World! I'm using Go!")
 }
